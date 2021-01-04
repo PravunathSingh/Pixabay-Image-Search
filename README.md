@@ -2,7 +2,7 @@
 
 Web App to search high quality images using PixaBay. Built using React.
 
-The live version of the project can be found [here]()
+The live version of the project can be found [here](https://picoogle.netlify.app/)
 
 ## Available Scripts
 
